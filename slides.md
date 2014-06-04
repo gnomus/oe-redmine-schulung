@@ -1,6 +1,7 @@
 ## OE-Redmine Schulung
 
 
+
 ###Felix Favre
 
 im 6. Semester BSc. Informatik
@@ -15,6 +16,8 @@ im 6. Semester BSc. Informatik
 * Projektmanagement Software
 * redmine.mafiasi.de
 * Mafiasi Account needed
+
+
 
 # Was kann das?
 * Todo Verwaltung
