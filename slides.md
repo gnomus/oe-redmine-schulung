@@ -1,4 +1,4 @@
-## 30c3 - was, wann, wo, wie, warum?
+## OE-Redmine Schulung
 
 
 ###Felix Favre
@@ -11,17 +11,10 @@ im 6. Semester BSc. Informatik
 
 
 
-# Was?
-
-
-## 30. Chaos Communication Congress
-
-* Organisiert vom Chaos Computer Club (CCC)
-* Jährliche Veranstaltung
-* Seit 1984
-    * bis 1997 Hamburg
-    * 1998 - 2011 Berlin
-    * seit 2012 Hamburg
+# Redmine?! WTF?!
+* Projektmanagement Software
+* redmine.mafiasi.de
+* Mafiasi Account needed
 
 
 
