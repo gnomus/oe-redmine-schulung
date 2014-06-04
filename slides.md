@@ -3,11 +3,11 @@
 
 ###Felix Favre
 
-im 5. Semester BSc. Informatik
+im 6. Semester BSc. Informatik
 
 1favre@inf | @gnomus
 
-![Map](img/cc-by-nc-sa.png)
+![ccbysa](img/cc-by-nc-sa.png)
 
 
 
