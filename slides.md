@@ -27,7 +27,12 @@ im 6. Semester BSc. Informatik
 
 
 # Übersicht
-* Welche Seiten gibt es überhaupt?
+Welche Seiten gibt es überhaupt?
+* Home
+* My Page
+* User Page
+* Settings Page
+* Project Page
 
 
 
