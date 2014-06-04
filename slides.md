@@ -26,7 +26,7 @@ im 6. Semester BSc. Informatik
 
 
 
-# Übersicht
+# Übersicht - Live Demo
 Welche Seiten gibt es überhaupt?
 
 * Home
@@ -47,8 +47,8 @@ Welche Seiten gibt es überhaupt?
 * Was ist eigentlich ein TODO?
 * Was ist eigentlich dieser komische Tracker
 * Wie erstelle ich ein TODO?
-** Was ist zu beachten
-** Was sind Sub-Tasks?
+ * Was ist zu beachten
+ * Was sind Sub-Tasks?
 * Due Date? Was ist das?
 * TODOs watchen
 
