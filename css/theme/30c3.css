@@ -15,7 +15,7 @@
 body {
   background: #ffffff;
   background: url(../../img/MineBit.png) no-repeat;
-  background-position: 10px;
+  background-position: 10px 10px;
 }
 
 .reveal {
