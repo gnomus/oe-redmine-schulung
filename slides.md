@@ -26,6 +26,10 @@ im 6. Semester BSc. Informatik
 
 
 
+# But first - let me accept a group invitation
+
+
+
 # Übersicht
 ### Live Demo
 Welche Seiten gibt es überhaupt?
