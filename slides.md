@@ -27,7 +27,7 @@ im 6. Semester BSc. Informatik
 
 
 # Übersicht
-## Live Demo
+### Live Demo
 Welche Seiten gibt es überhaupt?
 
 * Home
@@ -39,14 +39,14 @@ Welche Seiten gibt es überhaupt?
 
 
 # Setup
-## Live Demo
+### Live Demo
 * Nofitication Einstellungen
 * SSH-Key einfügen
 
 
 
 # TODOs
-## Live Demo
+### Live Demo
 * Was ist eigentlich ein TODO?
 * Was ist eigentlich dieser komische Tracker
 * Wie erstelle ich ein TODO?
